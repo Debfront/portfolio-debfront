@@ -37,6 +37,7 @@ body {
 }
 
 .app {
+ .app {
   display: grid;
   grid-template-columns: 1fr;
   gap: 32px;
@@ -44,7 +45,8 @@ body {
   width: 100%;
   max-width: 1366px;
   padding: 0 20px;
-  margin: 120px auto 60px;
+  margin: 100px auto 60px;
+}
 }
 
 
@@ -59,4 +61,15 @@ body {
 .subtitle {
     font-size: 28px;
     font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+  .app {
+    grid-template-columns: 460px 1fr;
+    gap: 48px;
+  }
+
+  .projects {
+    grid-column: 1 / 3;
+  }
 }
