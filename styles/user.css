@@ -13,8 +13,6 @@
 
     border-radius: 12px;
     box-shadow: var(--shadow-image);
-
-    margin-top : -100px;
 }
 
 .user picture img {
@@ -28,7 +26,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    row-gap: 8px;
 }
 
 .user__content h1 {
