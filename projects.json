@@ -6,15 +6,15 @@
     "link": "https://github.com/Debfront/decodificador-de-texto"
   },
 	{
-    "name": "Alura Play",
-    "image": "./assets/alura-play.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/Debfront/alura-play"
+    "name": "To-do Metas 2026",
+    "image": "./assets/to-do-metas.png",
+    "tags": ["SCSS"],
+    "link": "https://github.com/Debfront/todo-metas2026"
   },
 	{
     "name": "Alura Books",
     "image": "./assets/alura-books.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/Debfront/alurabooks"
-  },
+  }
 ]
