@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Decoficador de Texto",
+    "image": "./assets/decodificador_imagem.png",
+    "tags": ["HTML", "CSS", "JAVASCRIPT"],
+    "link": "https://github.com/Debfront/decodificador-de-texto"
+  },
+	{
+    "name": "Alura Play",
+    "image": "./assets/alura-play.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/Debfront/alura-play"
+  },
+	{
+    "name": "Alura Books",
+    "image": "./assets/alura-books.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/Debfront/alurabooks"
+  },
+]
