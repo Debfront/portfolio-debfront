@@ -8,13 +8,13 @@
 	{
     "name": "To-do Metas 2026",
     "image": "./assets/to-do-metas.png",
-    "tags": ["SCSS"],
+    "tags": ["REACT", "SCSS"],
     "link": "https://github.com/Debfront/todo-metas2026"
   },
 	{
-    "name": "Alura Books",
-    "image": "./assets/alura-books.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/Debfront/alurabooks"
+    "name": "Desafio Rotas VNW",
+    "image": "./assets/desafio-rotas.png",
+    "tags": ["REACT", "SCSS"],
+    "link": "https://github.com/Debfront/desafio-rotas-vnw"
   }
 ]
